@@ -18,3 +18,4 @@ The objective of the Dmart Sales Dashboard is to analyze Dmart's year-over-year 
 - How does store growth correlate with revenue trends?
 
 ## Dashboard Preview
+-<a href="https://github.com/Balu256/PowerBI-Dashboard/blob/main/Dmart%20DB.png">View Dashboard</a>
