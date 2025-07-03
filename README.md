@@ -5,6 +5,10 @@ The objective of the Dmart Sales Dashboard is to analyze Dmart's year-over-year 
 ## Dataset used
 -<a href="https://github.com/Balu256/PowerBI-Dashboard/blob/main/DMart_Sales_Report_FY2025.xlsx">Dataset</a>
 
+## Tools used
+ - **Power BI** – For creating interactive visual dashboards
+ - **Microsoft Excel** – For data collection and preprocessing
+   
 ## Questions (KPIs)
 - How has Dmart's store count increased over the years?
 - Which states have the highest number of stores?
