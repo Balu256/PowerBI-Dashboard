@@ -16,3 +16,5 @@ The objective of the Dmart Sales Dashboard is to analyze Dmart's year-over-year 
 - Which states contribute most to revenue and profit?
 - What are the top-performing product categories?
 - How does store growth correlate with revenue trends?
+
+## Dashboard Preview
