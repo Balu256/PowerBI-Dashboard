@@ -21,9 +21,9 @@ The objective of the Dmart Sales Dashboard is to analyze Dmart's year-over-year 
 -<a href="https://github.com/Balu256/PowerBI-Dashboard/blob/main/Dmart%20DB.png">View Dashboard</a>
 
 ## Summary
-Collected Dmart’s sales, store, and category data in Excel format.
-Cleaned and structured the dataset by removing errors and formatting columns.
-Imported the cleaned data into Power BI for analysis.
-Created data model and DAX measures for revenue, profit, and store metrics.
-Visualized trends using charts for store growth, state-wise performance, and category-wise revenue.
-Designed an interactive dashboard with slicers and consistent formatting.
+- Collected Dmart’s sales, store, and category data in Excel format.
+- Cleaned and structured the dataset by removing errors and formatting columns.
+- Imported the cleaned data into Power BI for analysis.
+- Created data model and DAX measures for revenue, profit, and store metrics.
+- Visualized trends using charts for store growth, state-wise performance, and category-wise revenue.
+- Designed an interactive dashboard with slicers and consistent formatting.
